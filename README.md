@@ -11,8 +11,8 @@ The following results were found from the analysis:
 Both visualisations show that bike useage is heavy during the typical commuter hours.  Men are the heaviest users and make up the majority of commuters and have subscriptions.
 
 Visualisations can be found at the following locations:
-![link to story1](https://public.tableau.com/profile/stan.holko#!/vizhome/TableauNYCitibikeTripsCheckoutTimesStory/StoryCitibikePickupTimes?publish=yes)
-1[link to story2](https://public.tableau.com/profile/stan.ho)lko#!/vizhome/TableauNYCitibikeTripsHeatmapStory/StoryCitibikeHeatmaps?publish=yes)
+[link to story1](https://public.tableau.com/profile/stan.holko#!/vizhome/TableauNYCitibikeTripsCheckoutTimesStory/StoryCitibikePickupTimes?publish=yes)
+[link to story2](https://public.tableau.com/profile/stan.ho)lko#!/vizhome/TableauNYCitibikeTripsHeatmapStory/StoryCitibikeHeatmaps?publish=yes)
 
 ## Summary
 The key takeaways from the analysis are:
