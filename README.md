@@ -14,7 +14,7 @@ Visualisations can be found at the following locations:
 
 [Story Citibike Pickup Times](https://public.tableau.com/profile/stan.holko#!/vizhome/TableauNYCitibikeTripsCheckoutTimesStory/StoryCitibikePickupTimes?publish=yes)
 
-[Story Citibike Heatmaps](https://public.tableau.com/profile/stan.ho)lko#!/vizhome/TableauNYCitibikeTripsHeatmapStory/StoryCitibikeHeatmaps?publish=yes)
+[Story Citibike Heatmaps](https://public.tableau.com/profile/stan.holko#!/vizhome/TableauNYCitibikeTripsHeatmapStory/StoryCitibikeHeatmaps?publish=yes)
 
 ## Summary
 The key takeaways from the analysis are:
