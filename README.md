@@ -4,9 +4,9 @@ The purpose of this analysis was to understand riding patterns of a bicycle shar
 
 ## Results
 The following results were found from the analysis:
-![Story1](/Resources/Story1.png)
+![Story1](/Resources/Story1.PNG)
 
-![Story2](/Resources/Story2.png)
+![Story2](/Resources/Story2.PNG)
 
 Both visualisations show that bike useage is heavy during the typical commuter hours.  Men are the heaviest users and make up the majority of commuters and have subscriptions.
 
